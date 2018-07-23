@@ -6,7 +6,7 @@ function updateObjectWithKeyAndValue(obj, key, value) {
 }
 
  
-updateObjectWithKeyAndValue(recipes, 'chocolate', '1 cup')
+/*updateObjectWithKeyAndValue(recipes, 'chocolate', '1 cup')*/
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
   object.key = 'value1';
