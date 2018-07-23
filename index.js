@@ -11,3 +11,7 @@ updateObjectWithKeyAndValue(recipes, 'chocolate', '1 cup')
 function destructivelyUpdateObjectWithKeyAndValue() {
   
 }
+
+function destructivelyUpdateObjectWithKeyAndValue() {
+  
+}
